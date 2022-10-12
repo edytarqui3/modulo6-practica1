@@ -1,4 +1,8 @@
-# PRACTICA 1:MÓDULO 6 - VUEJS
+# MÓDULO 6 - VUEJS
+# Integrantes
+1. Edy Felix Tarqui Guarachi  CI:. 6154087 LP
+2. Elmer Mamani Ticona        CI:. 8418037 LP
+# PRACTICA 1:
 1. Propósito: Demostrar los conocimientos adquiridos en la creación de un proyecto en
 vuejs.
 2. Requerimientos:
@@ -12,9 +16,10 @@ vuejs.
 - Comprar un producto
     En la sección de producto se deberá elegir el color y la cantidad del producto.
     Al presionar el botón de comprar deber mostrarse en un alert el el siguiente contenido:
-        ● id del producto
-        ● La cantidad
-        ● Color seleccionado
+    - id del producto
+    - La cantidad
+    - Color seleccionado
+    
     Esta informacion debera estar en el objeto pedido
 ```
 pedido
@@ -27,6 +32,10 @@ color:null
 - Boton comprar 
     El botón de comprar debe permanecer deshabilitado mientras no se tenga una cantidad
     mayor igual a 1 y un color seleccionado
-# Integrantes
-1. Edy Felix Tarqui Guarachi  CI:. 6154087 LP
-2. Elmer Mamani Ticona        CI:. 8418037 LP
+
+### `POST`
+
+El resultado esperado es el siguiente:
+![Ejecucion](resultado.PNG)
+
+

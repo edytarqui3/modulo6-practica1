@@ -208,12 +208,10 @@
                     this.pedido.id=producto.id
                     var json =JSON.stringify(this.pedido);
                     alert(json)
-                    var v_parse = JSON.parse(json);
 
                 },
                 select_color: function (producto) {
                     this.pedido.color=producto
-                    console.log(producto)
                 },
                 increment_quantity: function (producto) {
                     this.pedido.cantidad++
