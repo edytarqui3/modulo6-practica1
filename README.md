@@ -19,7 +19,7 @@ vuejs.
     - id del producto
     - La cantidad
     - Color seleccionado
-    
+
     Esta informacion debera estar en el objeto pedido
 ```
 pedido
@@ -33,7 +33,7 @@ color:null
     El botón de comprar debe permanecer deshabilitado mientras no se tenga una cantidad
     mayor igual a 1 y un color seleccionado
 
-### `POST`
+### `RESULTADO CON LIVESERVER`
 
 El resultado esperado es el siguiente:
 ![Ejecucion](resultado.PNG)
